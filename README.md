@@ -108,5 +108,3 @@ alt="스케치" width=500 height=400>
 
 도메인은 pickstom.com으로 고르다의 ‘pick’와 custom의 stom을 합친 단어로
 사용자가 원하는 디자인을 선택해 커스텀이 가능하다는 의미로 pickstom으로 결정하게 되었습니다. 
-
-
