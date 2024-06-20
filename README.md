@@ -32,7 +32,7 @@
 <img src="https://github.com/123dd654/project-pickstom/assets/161431124/7071dab4-5c40-4ad0-9f33-0ca9bc3224d7" alt="디자인컨셉" width=500> 
 
 [메인페이지]   
-<img src="https://github.com/123dd654/project-pickstom/assets/161431124/774fbd1f-6530-4c42-a34d-132387446f96" alt="메인페이지" width=250>   
+<img src="https://github.com/123dd654/project-pickstom/assets/161431124/774fbd1f-6530-4c42-a34d-132387446f96" alt="메인페이지" width=400>   
 
 ### 08. 디자인 및 시각적 요소 도출
 페르소나: 주로 20대에서 40대 사이의 반려견 소유주로, 자신의 반려견에게 최상의 제품과 경험을 제공하고자 하는 열정적인 소비자.
