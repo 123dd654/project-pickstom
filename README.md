@@ -29,10 +29,10 @@
 저희 사이트의 디자인 컨셉은 활기차고 생동감 넘치는 이미지를 기반으로 합니다. 각각의 콘텐츠 블록은 밝고 다채로운 색상으로 구성되어 강아지의 개성과 스타일을 강조하며, 이는 회원들이 자신의 강아지를 위한 맞춤형 의류를 상상하게 만듭니다. 큰 텍스트와 명확한 콜 투 액션 버튼은 사용자 인터페이스를 직관적으로 만들어, 방문자가 쉽게 탐색하고 원하는 정보를 찾을 수 있도록 돕습니다. 전체적으로 사이트는 트렌디하고 매력적인 온라인 맞춤형 강아지 의류 쇼핑 경험을 제공하는 데 중점을 두고 있습니다.
 
 [디자인 컨셉 벤치마킹 사이트]   
-<img src="https://github.com/123dd654/project-pickstom/assets/161431124/7071dab4-5c40-4ad0-9f33-0ca9bc3224d7" alt="디자인컨셉"> 
+<img src="https://github.com/123dd654/project-pickstom/assets/161431124/7071dab4-5c40-4ad0-9f33-0ca9bc3224d7" alt="디자인컨셉" width=500> 
 
 [메인페이지]   
-<img src="https://github.com/123dd654/project-pickstom/assets/161431124/774fbd1f-6530-4c42-a34d-132387446f96" alt="메인페이지">   
+<img src="https://github.com/123dd654/project-pickstom/assets/161431124/774fbd1f-6530-4c42-a34d-132387446f96" alt="메인페이지" width=300>   
 
 ### 08. 디자인 및 시각적 요소 도출
 페르소나: 주로 20대에서 40대 사이의 반려견 소유주로, 자신의 반려견에게 최상의 제품과 경험을 제공하고자 하는 열정적인 소비자.
@@ -59,6 +59,9 @@ alt="벤치마킹">
 * 마이페이지 (My Page)
 * 회원 디자인 및 활동 내역 저장
 * 개인 정보 및 설정 관리
+
+<img src="https://github.com/123dd654/pickstom-project/assets/161431124/affbbead-08bc-4b31-9265-6b2e016b3312"
+alt="스케치" width=500 height=400>
 
 ### 11. 도메인 및 사이트 제목
 
