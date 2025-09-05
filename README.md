@@ -57,7 +57,6 @@
   * 회원 디자인 및 활동 내역 저장
   * 개인 정보 및 설정 관리
 
-![스케치](https://github.com/123dd654/pickstom-project/assets/161431124/affbbead-08bc-4b31-9265-6b2e016b3312)
 
 ## 11. 도메인 및 사이트 제목
 ![사이트 제목](https://github.com/123dd654/project-pickstom/assets/161431124/8bd38562-051e-4515-8360-f32c7356410e)
