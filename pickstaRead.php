@@ -6,6 +6,8 @@ include "./util/session.php";
 $isLoggedIn = isset($_SESSION['userNum']);
 $userNum = $isLoggedIn ? $_SESSION['userNum'] : null;
 $userName = $isLoggedIn ? $_SESSION['userName'] : null;
+
+$category = $_GET['category'] ?? null;
 ?>
 
 <!DOCTYPE html>
